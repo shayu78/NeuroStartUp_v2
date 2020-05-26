@@ -13,11 +13,13 @@
 
 JavaScript:
 
-```<script src="https://localhost/neuro.sdk.min.js"></script>
+```
+<script src="https://localhost/neuro.sdk.min.js"></script>
 ```
 Java (Maven):
 
-```<dependency>
+```
+<dependency>
   <groupId>neuro</groupId>
   <artifactId>sdk</artifactId>
   <version>1.0.0</version>
@@ -25,6 +27,7 @@ Java (Maven):
 ```
 iOS (добавьте код в ваш Podfile):
 
-```platform :ios, '8.0'
+```
+platform :ios, '8.0'
 pod "neuro-ios-sdk"
 ```
